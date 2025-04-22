@@ -15,7 +15,7 @@ National Formosa University CSIE 2024 Seminar II
 * 題目: 360全景智慧應用-源源不絕全景即時影像走進360°AI新世界
 * 關鍵字: **全景鏡頭**、**創業**
 
-### 250401-Yolov4、Yolov7及Yolov9的發展過程
+### 20250401-Yolov4、Yolov7及Yolov9的發展過程
 * 日期: 2025 / 04 / 01
 * 講者: 中央研究院資訊科學研究所特聘研究員 廖弘源 博士
 * 題目: YOLOv4、YOLOv7及YOLOv9的發展過程
